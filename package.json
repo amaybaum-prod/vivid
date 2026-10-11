@@ -161,6 +161,6 @@
 		"**/minimist": "^1.2.6"
 	},
 	"dependencies": {
-		"minimatch": "3.1.2"
+		"minimatch": "5.0.0"
 	}
 }
